@@ -108,4 +108,7 @@ Two settlement-extent polygons were invalid. I repaired them with Fix geometries
 
 `data/processed/Somolu_Population_utm31N_masked.tif`: the population raster, EPSG:32631, cells of 92.13 m, masked to the 16 wards (1,186 valid cells). It stays a GeoTIFF because zonal statistics reads raster cell values.
 
+### Folder guides
 
+- `data/raw/README.md` lists the original downloads, their sources, and which ones are too large to be in this repository.
+- `data/processed/README.md` lists every file in the processed folder, its CRS, and what it is.
