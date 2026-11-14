@@ -3,13 +3,22 @@ Which wards in Somolu LGA, Lagos are more than 2 km (straight-line distance) fro
 Built over twelve months with GeoDev lab Africa, Cohort One.
 See project brief.md for the full brief
 ## Status
-Week 2: data downloaded, opened in QGIS, clipped to the study area and described. The distance and population analysis comes next.
+Month 1 complete (Weeks 1 to 4). Distance analysis for Somolu done with a 2 km buffer around the eight Red Line stations. Residents per ward are not yet calculated.
 
 ## What is in this repository
-- [PROJECT_BRIEF.md](PROJECT_BRIEF.md): the question, study area, why it matters, and every dataset with its source link
-- [Data_Note.md](Data_Note.md): for each dataset, the source, geometry type, feature count, key columns and gaps
-- `data/`: the datasets, clipped to Somolu (the national files are too large for GitHub, so see the links in the brief)
-- `screenshots/`: the project open in QGIS
+| Week | What | Where |
+|---|---|---|
+| 1 | Project brief with a source link for every dataset | [PROJECT_BRIEF.md](PROJECT_BRIEF.md) |
+| 2 | Data note describing what I downloaded | [Data_Note.md](Data_Note.md) |
+| 2 | Data as downloaded, clipped to Somolu | [data/](data/) |
+| 3 | Data preparation and five quality checks | [DATA_PREP_NOTE.md](DATA_PREP_NOTE.md) |
+| 3 | Analysis-ready GeoPackage | [Somolu_analysis.gpkg](Somolu_rail_access/data/processed/Somolu_analysis.gpkg) |
+| 3 | Masked population raster | [Somolu_Population_utm31N_masked.tif](Somolu_rail_access/data/processed/Somolu_Population_utm31N_masked.tif) |
+| 4 | Analysis results (buffer, ward classes) | [Somolu_week4_results.gpkg](Somolu_rail_access/data/processed/Somolu_week4_results.gpkg) |
+| 4 | Map | [week4_wards_beyond_2km.png](screenshots/week4_wards_beyond_2km.png) |
+| 4 | Month 1 summary | [month-1-summary.md](month-1-summary.md) |
+
+Week 3 files are in `Somolu_rail_access/data/` (`raw` and `processed`). Week 2 files are in `data/`.
 
 ## Data sources
 GRID3 Nigeria (ward, LGA, state boundaries, settlement extents and names, population), and OpenStreetMap via the QuickOSM plugin in QGIS (railway stations and tracks). Links and versions are in the brief.
