@@ -20,6 +20,10 @@ Month 1 complete (Weeks 1 to 4). Distance analysis for Somolu done with a 2 km b
 
 Week 3 files are in `Somolu_rail_access/data/` (`raw` and `processed`). Week 2 files are in `data/`.
 
+## Month 2: development environment and early Python
+
+Week 5: set up Python, VS Code and the terminal. hello.py runs.
+
 ## Data sources
 GRID3 Nigeria (ward, LGA, state boundaries, settlement extents and names, population), and OpenStreetMap via the QuickOSM plugin in QGIS (railway stations and tracks). Links and versions are in the brief.
 
