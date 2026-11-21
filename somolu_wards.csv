@@ -1,0 +1,17 @@
+fid,country,iso3,state,statecode,lga,lga_alt_na,ward,ward_alt_n,ward_v1_gr,ward_in_gr,multipart_,source,date,area_sqkm,pop_sum
+1,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Aiyetoro/Mafowoku,Ayetoro Mafowokun,,1,1,CIESIN,2026-10-16,0.53794243143,12101.2441596985
+2,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Akoka/Anu-Oluwapo,Akoka/Anuoluwapo,,1,1,CIESIN,2026-10-16,1.24957488235,27014.240814209
+3,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Apelehin,Gbagada Phase 2/Bariga/Apelehin,,1,1,CIESIN,2026-10-16,1.54227573584,31431.1671476364
+4,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Bajulaiye,,,1,1,CIESIN,2026-10-16,0.51082352501,8870.42570877075
+5,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Bashua East & West,"Bashua, Bashar Ward",,1,1,CIESIN,2026-10-16,0.22587836213,5174.68267059326
+6,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Ibuowo/Owotutu,Owotutu,,1,1,CIESIN,2026-10-16,0.50356186134,11817.3160018921
+7,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Igbari,"Fola Agoro/Bajulaiye/Igbari-Akoka, FOLA AGORO/BAJULAIYE IGBARA-AKOKA",,1,1,CIESIN,2026-10-16,0.26714526085,5963.27807617188
+8,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Igbobi/Fadeyi,,,1,1,CIESIN,2026-10-16,0.66171826038,7996.03197145462
+9,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Ijebu Tedo,"Palmgrove/Ijebutedo, Ijebutedo",,1,1,CIESIN,2026-10-16,0.47583673375,9717.67087554932
+10,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Ilaje,Abule-Okuta/Ilaje/Bariga,,1,1,CIESIN,2026-10-16,0.70375868708,23792.0184173584
+11,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Okesuna/Alase,Okesuna,,1,1,CIESIN,2026-10-16,0.30300303511,6647.14542388916
+12,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Onipanu,Onipanu ( Shomolu ),,1,1,CIESIN,2026-10-16,0.27620646234,4888.57798957825
+13,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Orile Somolu/Alade,"Orile Shomolu, Alade",,1,1,CIESIN,2026-10-16,0.28536713025,7257.08644104004
+14,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Owode/Orile Bariga,"Owode /Orile Bariga, Owode Orile",Owode /Orile Bariga,1,1,CIESIN,2026-10-16,0.73952466951,13621.8054065704
+15,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Pedro/Gbagada,Gbagada Phase 1 Obanikoro/Pedro,,1,1,CIESIN,2026-10-16,1.80105855136,24302.1303400993
+16,Nigeria,NGA,Lagos,LA,Shomolu,Somolu,Seriki-Okuta,Seriki,,1,1,CIESIN,2026-10-16,0.38189949429,11254.825340271
