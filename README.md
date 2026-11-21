@@ -25,6 +25,7 @@ Week 3 files are in `Somolu_rail_access/data/` (`raw` and `processed`). Week 2 f
 Week 5: set up Python, VS Code and the terminal. hello.py runs.
 
 Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
+Week 8: inspect_data.py summarises area (sq km) and modelled population in my Somolu wards data (somolu_wards.csv).
 
 ## Data sources
 GRID3 Nigeria (ward, LGA, state boundaries, settlement extents and names, population), and OpenStreetMap via the QuickOSM plugin in QGIS (railway stations and tracks). Links and versions are in the brief.
